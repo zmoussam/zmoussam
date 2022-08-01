@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm zakaria</h1>
 <h3 align="center">1337(42 Network) student and full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
+![nmoussam's 42 stats](https://badge.mediaplus.ma/kettlebells/zmoussam)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmoussam&label=Profile%20views&color=0e75b6&style=flat" alt="zmoussam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/z_moussammi" target="blank"><img src="https://img.shields.io/twitter/follow/z_moussammi?logo=twitter&style=for-the-badge" alt="z_moussammi" /></a> </p>
