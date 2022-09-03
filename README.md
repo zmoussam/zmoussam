@@ -1,7 +1,7 @@
 [![MasterHead](https://pbs.twimg.com/profile_banners/1475143905171623943/1646685837/1500x500)](https://zmoussam.io)
 <h1 align="center">Hi 👋, I'm zakaria</h1>
 <h3 align="center">1337(42 Network) student</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">-->
 <!-- - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Learn more about web3 
 <br> -->
