@@ -34,6 +34,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zmoussam&" alt="zmoussam" /></p>
 
-## my contribution 
-
-![snake gif](https://github.com/zmoussam/zmoussam/blob/output/github-contribution-grid-snake.gif)
