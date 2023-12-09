@@ -6,7 +6,7 @@
 - 🥅 2022 Goals: Learn more about web3 
 <br> -->
 
-![zmoussam's 42 stats](https://badge.mediaplus.ma/kettlebells/zmoussam)
+[![zmoussam's 42 stats](https://badge.mediaplus.ma/binary/zmoussam)](https://github.com/oakoudad/badge42)
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmoussam&label=Profile%20views&color=0e75b6&style=flat" alt="zmoussam" /> </p>
