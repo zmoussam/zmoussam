@@ -13,8 +13,6 @@
 
 <p align="left"> <a href="https://twitter.com/z_moussammi" target="blank"><img src="https://img.shields.io/twitter/follow/z_moussammi?logo=twitter&style=for-the-badge" alt="z_moussammi" /></a> </p>
 
-- 🌱 I’m currently learning **MERN, React Native,PHP**
-
 - 📫 How to reach me **zakariamoussammi87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
