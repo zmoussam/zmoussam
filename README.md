@@ -1,6 +1,6 @@
-
-<h1 align="center">Hi ![Group 11](https://github.com/zmoussam/zmoussam/assets/90983110/4e50ff01-f8be-4bab-8866-8757a1a63a77)
-👋, I'm zakaria</h1>
+![Group 11](https://github.com/zmoussam/zmoussam/assets/90983110/4467712a-5397-4cca-8872-1e498fa4d635)
+<h1 align="center"👋,
+ I'm zakaria</h1>
 <h3 align="center">42 Network student</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">-->
 <!-- - 🌱 I’m currently learning everything 
