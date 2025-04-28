@@ -1,4 +1,4 @@
-![Group 11](https://github.com/zmoussam/zmoussam/assets/90983110/4467712a-5397-4cca-8872-1e498fa4d635)
+
 <h1 align="center"👋,
  I'm zakaria</h1>
 <h3 align="center">42 Network student</h3>
