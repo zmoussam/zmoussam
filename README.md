@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/z_moussammi" target="blank"><img src="https://img.shields.io/twitter/follow/z_moussammi?logo=twitter&style=for-the-badge" alt="z_moussammi" /></a> </p>
 
-- 📫 How to reach me **zakariamoussammi87@gmail.com**
+- 📫 How to reach me **zakariamoussammi.pto07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
