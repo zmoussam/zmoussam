@@ -44,7 +44,7 @@ I enjoy designing **scalable systems** and building **modern web applications**,
 
 ### 📫 Contact Me  
 - 📧 Email: **zakariamoussammi.pro07@gmail.com**  
-- 🌐 Portfolio: [https://zmoussam.github.io](https://zmoussam.github.io) *(optional — add if you have one)*  
+- 🌐 Portfolio: https://www.moussammi.com  
 
 ---
 
