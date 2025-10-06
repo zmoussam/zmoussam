@@ -25,11 +25,11 @@ I enjoy designing **scalable systems** and building **modern web applications**,
 - 🎓 **Master’s in Ingeniería Informática** — *Universidad de Granada (UGR), Spain*  
   *2025 — Present*  
 - 💻 **42 Barcelona (42 Network)** — *Software Architect Program*  
-  *2022 — 2024*  
+  *2024 — 2025*  
 - 💡 **1337 Coding School (42 Network)** — *Software Architect Program*  
-  *2021 — 2023*  
+  *2022 — 2024*  
 - 🎓 **Bachelor’s in Computer Science** — *Université Hassan II, FST Settat, Morocco*  
-  *2018 — 2021*  
+  *2018 — 2022*  
 
 ---
 
