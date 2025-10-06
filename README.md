@@ -15,12 +15,6 @@
 
 ---
 
-### 🧠 About Me  
-I'm a passionate software developer with a strong foundation in **computer science and engineering**, currently pursuing a **Master’s in Ingeniería Informática** at the **Universidad de Granada (Spain)**.  
-I enjoy designing **scalable systems** and building **modern web applications**, with a growing interest in **cloud computing**, **AI integration**, and **software architecture**.
-
----
-
 ### 🎓 Education  
 - 🎓 **Master’s in Ingeniería Informática** — *Universidad de Granada (UGR), Spain*  
   *2025 — Present*  
