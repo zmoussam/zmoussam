@@ -10,9 +10,9 @@
 
 <p align="center">
   <!-- <a href="https://github.com/oakoudad/badge42"> -->
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/zmoussam" alt="zmoussam's 42 stats" /></a>
+<!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/zmoussam" alt="zmoussam's 42 stats" /></a> -->
 <img width="200" height="200" alt="42-cursus-developer-level-13" src="https://github.com/user-attachments/assets/292ab746-3135-45f6-af6a-c3d244f4a116" />
-  </a>
+  <!-- </a> -->
 </p>
 
 ---
