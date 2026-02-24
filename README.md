@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Zakaria Moussammi</h1>
-<h3 align="center">💻 Software & Web Developer | 42 Network Student | Master’s in Computer Engineering at UGR</h3>
+<h3 align="center">💻 Software Engineer | 42 Network Student | Master’s in Computer Engineering at UGR</h3>
 
 <!-- Profile Views -->
 <p align="center">
